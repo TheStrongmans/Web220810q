@@ -22,4 +22,21 @@ ng serve
 ```    
 ![1](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E8%BF%90%E8%A1%8C_%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE.png)
 
-运行号后可在浏览器输入`http://localhost:4200/` 访问项目
+运行号后可在浏览器输入`http://localhost:4200/` 访问项目  
+
+## 项目运行效果  
+
+注册  
+![2](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E6%B3%A8%E5%86%8C%E9%A1%B5.png)  
+------  
+登录  
+![3](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E7%99%BB%E5%BD%95%E9%A1%B5.png)  
+------  
+主页  
+![4](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E4%B8%BB%E9%A1%B5%E9%9D%A2.png)  
+------  
+发布博客  
+![5](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E5%8F%91%E5%B8%83%E5%8D%9A%E5%AE%A2.png)  
+------  
+博客详情  
+![6](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E5%8D%9A%E5%AE%A2%E8%AF%A6%E6%83%85%E9%A1%B5.png)  

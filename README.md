@@ -1,9 +1,9 @@
 # Web220810_博客前端
 
 ----------
-前端使用 Angular 创建的简单博客应用程序
+前端使用 Angular 创建最简单的博客应用程序
 
-后端代码:https://github.com/TheStrongmans/Web220810/tree/master
+处代码：[https://github.com/TheStrongmans/Web220810q](https://github.com/TheStrongmans/Web22010q)   
 
 运行项目  
 1. 安装node.js  

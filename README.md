@@ -1,8 +1,8 @@
-# Web220810_博客前端
+ # Web220810_博客前端
+--------  
+前端使用 Angular     
+后段代码：[https://github.com/TheStrongmans/Web220810/tree/master](https://github.com/TheStrongmans/Web220810/tree/master)  
 
-----------
-前端使用 Angular 创建最简单的博客应用程序
-后段代码：[https://github.com/TheStrongmans/Web220810/tree/master](https://github.com/TheStrongmans/Web220810/tree/master)
 运行项目  
 1. 安装node.js  
 2. 安装angular-cli  

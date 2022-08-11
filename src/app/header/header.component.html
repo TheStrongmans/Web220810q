@@ -1,0 +1,21 @@
+
+<div id="new_post" *ngIf="authService.isAuthenticated()">
+    <a href="/add-post" class="new-post">+ 发布博客</a>
+</div>
+<div class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h1><a href="" class="tite">Web220810 博客</a></h1>
+            </div> <!-- 标题-->
+            <div class="col-md-3" align="right"  *ngIf="authService.isAuthenticated()">
+                <!-- <a href="/add-post" class="new-post">发表文章</a> -->
+                <button class="logou btn btn-default" (click)="logou()">注销</button>
+            </div>
+            <div class="col-md-3" *ngIf="!authService.isAuthenticated()">
+                <a href="/login" class="login btn btn-primary">登录</a>
+                <a href="/register" class="register btn btn-primary">注册</a>
+            </div> <!-- 登录 和 注册-->
+        </div>
+    </div>
+</div>

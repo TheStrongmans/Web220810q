@@ -1,0 +1,17 @@
+<div class="content">
+    <div class="container">
+      <div class="row" *ngFor="let post of posts | async">
+        <div class="blogpost" >
+          <h3><a href="/post/{{post.id}}" class="blog-title">{{post.title}}</a></h3>
+          <div>
+            <i class="fas fa-user"></i>  <p class="aName">作者:{{post.username}}</p>
+          </div>
+          <p [innerHTML]="post.content"></p>
+       
+          <hr>
+        </div>
+        <hr>
+      </div>
+    </div>
+  </div>
+  

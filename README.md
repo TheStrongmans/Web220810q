@@ -2,9 +2,7 @@
 
 ----------
 前端使用 Angular 创建最简单的博客应用程序
-
-处代码：[https://github.com/TheStrongmans/Web220810q](https://github.com/TheStrongmans/Web22010q)   
-
+后段代码：[https://github.com/TheStrongmans/Web220810/tree/master](https://github.com/TheStrongmans/Web220810/tree/master)
 运行项目  
 1. 安装node.js  
 2. 安装angular-cli  
@@ -21,6 +19,5 @@ npm insert
 ```
 ng serve
 ```  
-
 
 运行号后可在浏览器输入`http://localhost:4200/` 访问项目

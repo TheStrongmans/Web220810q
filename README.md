@@ -8,6 +8,9 @@
 1. 安装node.js  
 2. 安装angular-cli  
 win+r -> cmd -> 运行  
+```
+npm install -g typescript
+```
 ``` 
 cnpm i -g @angular/cli
 ```  
